@@ -54,3 +54,6 @@ Es necesario que la unidad esté formateada en formato FAT32 con un allocation u
 
 ---
 # 5. Licence
+
+Pong Game is licensed under the GNU General Public License version 3.
+
